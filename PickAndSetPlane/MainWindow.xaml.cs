@@ -24,5 +24,20 @@ namespace PickAndSetPlane
         {
             InitializeComponent();
         }
+
+        private void Button_PickParts_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Button_PickPart_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Button_Global_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
